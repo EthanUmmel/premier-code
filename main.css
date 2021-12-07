@@ -1,0 +1,10 @@
+body{
+    background-color: gray;
+    color: orange;
+    font-family: Arial,sans-serif;
+}
+
+h1 {
+    color: aqua;
+    text-decoration: underline;
+}
